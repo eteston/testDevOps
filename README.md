@@ -1,4 +1,4 @@
-Editado en Local
+Editado en ambos
 
 # testDevOps
 Test formación DevOps
